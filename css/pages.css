@@ -1,0 +1,12 @@
+body {
+    background-image: none;
+    background-color: cornsilk;
+}
+.body {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    height: 1000%;
+    border: 2px solid;
+    background-color: darkkhaki;
+}
